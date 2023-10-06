@@ -1,1 +1,1 @@
-print("T1 worlds 2024")
+print("T1 worlds 2024 lol")
